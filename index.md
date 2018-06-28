@@ -296,7 +296,7 @@ The complete lessons notes can be found <a href="https://data-lessons.github.io/
 </p>
 <p>
   Once you've installed the software, check that it's working correctly by following the
-  <a href = "https://github.com/data-lessons/python-aos-lesson/blob/gh-pages/setup_check.md">Setup Check</a>.
+  <a href = "https://github.com/data-lessons/python-aos-lesson/blob/gh-pages/software_check.md">Software Check</a>.
 </p>
 
 <div id="shell"> {% comment %} Start of 'shell' section. {% endcomment %}
