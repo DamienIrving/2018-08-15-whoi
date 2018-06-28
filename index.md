@@ -118,7 +118,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <p id="requirements">
   <strong>Requirements:</strong> Participants must bring a laptop with a
   Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges
-  on and that connect to wifi at WHOI. They should have a few specific software packages installed (listed
+  on and that can connect to wifi at WHOI. They should have a few specific software packages installed (listed
   <a href="#setup">below</a>) and are required to abide by
   {% if page.carpentry == "swc" %}
   Software Carpentry's
@@ -295,7 +295,7 @@ The complete lessons notes can be found <a href="https://data-lessons.github.io/
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
 <p>
-  Once you've installed the software, check that it's working correctly by following the
+  Once you've installed the software, check that it's working correctly by completing the
   <a href = "https://github.com/data-lessons/python-aos-lesson/blob/gh-pages/software_check.md">Software Check</a>.
 </p>
 
