@@ -46,7 +46,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </iframe>
 {% endif %}
 
-<h4>Registration opens soon.</h4>
+<h4><a href="https://docs.google.com/forms/d/e/1FAIpQLScXv03XNGw5CzRiILA39tJFUnACab29GKNP6L68d5yKvkY2fg/viewform">Click here</a> to register.</h4>
 
 <h2 id="general">General Information</h2>
 
