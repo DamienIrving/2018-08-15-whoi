@@ -201,7 +201,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <h2 id="syllabus">Syllabus</h2>
 
 <p>
-The complete lessons notes can be found <a href="https://data-lessons.github.io/python-aos-lesson/">here</a>.
+The complete lessons notes can be found <a href="https://carpentrieslab.github.io/python-aos-lesson/">here</a>.
 </p>
 
 
